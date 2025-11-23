@@ -1,20 +1,20 @@
-# Kotlin Multiplatform Codelabs
+# Kotlin Multiplatform Codelabs (코틀린 멀티플랫폼 코드랩)
 
-This repository contains a set of Kotlin Multiplatform (KMP) projects to help you learn about Kotlin Multiplatform in Android. 
-Each folder contains the code for a specific KMP codelab.
+이 저장소는 안드로이드에서 Kotlin Multiplatform(KMP)을 배우는 데 도움이 되는 KMP 프로젝트 모음입니다.
+각 폴더에는 특정 KMP 코드랩의 코드가 포함되어 있습니다.
 
-## 💻 Requirements
+## 💻 요구사항
 
-- [Latest version of Android Studio](https://developer.android.com/studio).
-- [Latest version of Xcode](https://developer.apple.com/xcode/) for building the iOS app. You're able to build the Android and shared part of the codebase without Xcode.
+- [최신 버전의 Android Studio](https://developer.android.com/studio)
+- iOS 앱을 빌드하려면 [최신 버전의 Xcode](https://developer.apple.com/xcode/)가 필요합니다. Xcode 없이도 Android 및 공유 코드 부분을 빌드할 수 있습니다.
 
-## 🧬 Codelabs
+## 🧬 코드랩 목록
 
-### [Get Started With KMP](https://developer.android.com/codelabs/kmp-get-started)
-Learn how to get started with Kotlin Multiplatform from two separate Android and iOS projects.
+### [KMP 시작하기](https://developer.android.com/codelabs/kmp-get-started)
+별도의 Android와 iOS 프로젝트에서 Kotlin Multiplatform을 시작하는 방법을 배웁니다.
 
-### [Migrate Room To KMP](https://developer.android.com/codelabs/kmp-migrate-room)
-Learn how to share the database of your app with Room and Kotlin Multiplatform.
+### [Room을 KMP로 마이그레이션](https://developer.android.com/codelabs/kmp-migrate-room)
+Room과 Kotlin Multiplatform을 사용하여 앱의 데이터베이스를 공유하는 방법을 배웁니다.
 
 ## License
 

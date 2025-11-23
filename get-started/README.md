@@ -1,6 +1,12 @@
-# Get Started With Kotlin Multiplatform Codelab
+# Kotlin Multiplatform 시작하기 코드랩
 
-This folder contains the source code for the [Get Started With Kotlin Multiplatform Codelab](https://goo.gle/kmp-get-started-codelab).
+이 폴더에는 [Kotlin Multiplatform 시작하기 코드랩](https://goo.gle/kmp-get-started-codelab)의 소스 코드가 포함되어 있습니다.
+
+## 📚 학습 내용
+
+- Kotlin Multiplatform의 기본 개념
+- Android와 iOS 간 코드 공유 방법
+- 플랫폼별 구현과 공통 코드 작성
 
 
 ## License
